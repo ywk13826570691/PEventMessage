@@ -1,0 +1,10 @@
+#ifndef CONFIG_H
+#define CONFIG_H
+
+#define CONFIG_SERVER_IP "127.0.0.1"
+#define CONFIG_SERVER_PORT 8965
+
+#define CONFIG_TRANSFER_PACKAGE_SIZE 4*1024
+
+#endif // CONFIG_H
+
